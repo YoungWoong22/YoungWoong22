@@ -19,4 +19,12 @@
 
 
 
->  ## about Me
+
+<br><br>
+<h3 align="center">🍀 About Me 🍀</h3><br>
+
+<p align="center">
+    <a href="https://www.notion.so/363864c7c8824be3804de9fea766e5f4?pvs=4"><img src="https://img.shields.io/badge/Notion-Resume-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a><br>
+</p>
+
+<p align="center">Click to go </p>
